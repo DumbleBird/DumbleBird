@@ -7,8 +7,6 @@
 
 [![Sponsor](./.github/files/streamline.svg)](https://go.streamlinehq.com/dumblebird-github)
 
-English | [简体中文](./README_CN.md)
-
 # Dumble Bird
 
 Dumble Bird is an open-source set of essential system icons for designers and developers. Unlike typical icon libraries, Dumble Bird offers over 3,000 meticulously crafted icons, designed for maximum readability, consistency, and pixel-perfect precision. Available in both "Outlined" and "Filled" styles, all icons are based on a 24x24 grid. Best of all, all the icons are free for personal and commercial use.
