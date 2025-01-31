@@ -1,13 +1,4 @@
-[![logo](./.github/files/logo-github.svg)](https://dumblebird.in)
-
-[![npm](https://img.shields.io/npm/v/dumblebird.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/dumblebird)
-[![downloads](https://img.shields.io/npm/dt/dumblebird.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/dumblebird)
-[![](https://data.jsdelivr.com/v1/package/npm/dumblebird/badge)](https://www.jsdelivr.com/package/npm/dumblebird)
-[![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://dumblebird.in/support-us)
-
-[![Sponsor](./.github/files/streamline.svg)](https://go.streamlinehq.com/dumblebird-github)
-
-# Dumble Bird
+[![logo](./.github/files/logo-github.svg)](https://dumblebird.in) # Dumble Bird
 
 Dumble Bird is an open-source set of essential system icons for designers and developers. Unlike typical icon libraries, Dumble Bird offers over 3,000 meticulously crafted icons, designed for maximum readability, consistency, and pixel-perfect precision. Available in both "Outlined" and "Filled" styles, all icons are based on a 24x24 grid. Best of all, all the icons are free for personal and commercial use.
 
