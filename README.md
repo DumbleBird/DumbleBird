@@ -12,13 +12,13 @@ English | [简体中文](./README_CN.md)
 Dumble Bird is a set of open-source basic system symbols for designers and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](./.github/files/preview.svg)](https://remixicon.com)
-View the full set of Remix Icons at [dumblebird.in](https://dumblebird.in).
+View the full set of Dumble Bird at [dumblebird.in](https://dumblebird.in).
 
 ## Usage
 
 ### Basic Usage
 
-Just click the icons you want from [remixicon.com](https://remixicon.com), and then you can download the icons in SVG or PNG format.
+Just click the icons you want from [dumblebird.in](https://dumblebird.in), and then you can download the icons in SVG or PNG format.
 
 Designers can click the `Copy SVG` button and then press `⌘+V` or `Ctrl+V` to paste the vector graphic into your design tool directly, it is easy and simple.
 
