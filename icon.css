@@ -1,1 +1,12 @@
-.pointed-arrow-down-fill {}
+/* Define Customizable Variables */
+:root {
+    --icon-color: black;
+    --icon-size: 24px;
+    --icon-spacing: 10px;
+}
+
+.i-arrow-up::before {
+    font-size: var(--icon-size);
+    color: var(--icon-color);
+    margin-right: var(--icon-spacing);
+}
